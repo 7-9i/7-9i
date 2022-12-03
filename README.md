@@ -1,5 +1,5 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/8u7dtf4E"))() --you can go into the github link and copy all of it and modify it for yourself.
-local Window = Library:CreateWindow("79iware.cc", Vector2.new(492, 598), Enum.KeyCode.RightShift) --you can change your UI keybind
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/8u7dtf4E"))() --you can go into the github link and copy all of it and modify it for yourself.
+local Window = Library:CreateWindow("Mars.cc", Vector2.new(492, 598), Enum.KeyCode.RightShift) --you can change your UI keybind
 local AimingTab = Window:CreateTab("Blatant")
 local Legit = Window:CreateTab("Legit")
 local Misc = Window:CreateTab("Misc")
