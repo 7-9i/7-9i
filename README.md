@@ -54,7 +54,7 @@ local mouse = lp:GetMouse()
 
 local Tracer = Drawing.new("Line")
 Tracer.Visible = false
-Tracer.Color = Color3.fromRGB(13, 17, 214)
+Tracer.Color = Color3.fromRGB(123, 56, 182)
 Tracer.Thickness = 1
 Tracer.Transparency = 1
 
