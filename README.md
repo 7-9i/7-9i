@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/hYt8sNUU"))() --you can go into the github link and copy all of it and modify it for yourself.
+local Library = loadstring(game:HttpGet("[https://pastebin.com/raw/hYt8sNUU](https://raw.githubusercontent.com/7-9i/79i.github.io/main/79i)"))() --you can go into the github link and copy all of it and modify it for yourself.
 local Window = Library:CreateWindow("79iware.cc", Vector2.new(492, 598), Enum.KeyCode.RightShift) --you can change your UI keybind
 local AimingTab = Window:CreateTab("Blatant")
 local Legit = Window:CreateTab("Legit")
